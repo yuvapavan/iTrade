@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Activities.StockContentActivity">
+    <item
+        android:id="@+id/action_add_to_favorite"
+        android:orderInCategory="100"
+        android:title="@string/action_add_to_favorites"
+        app:showAsAction="always"
+        android:icon="@mipmap/ic_star_border"/>
+</menu>

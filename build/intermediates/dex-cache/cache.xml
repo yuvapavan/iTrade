@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\pavan\Desktop\MobileFinal\ITrade\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\pavan\Desktop\MobileFinal\ITrade\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.0_5e2ffebe66d32231c5ac9ca07d3a17a4b066e010.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pavan\Desktop\MobileFinal\ITrade\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="C:\Users\pavan\Desktop\MobileFinal\ITrade\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.0_994821b26fa69421bbd723ee6ff2498cfd2fc197.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pavan\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="C:\Users\pavan\Desktop\MobileFinal\ITrade\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.9_ac21c10dfc9738c2d113c567b7d814c9a553b2b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pavan\Desktop\MobileFinal\ITrade\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\pavan\Desktop\MobileFinal\ITrade\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.0_4791f0b15163a9eab97a47e09f48d1cc240ef0e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pavan\Desktop\MobileFinal\ITrade\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="C:\Users\pavan\Desktop\MobileFinal\ITrade\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.0_68ac7a4731c5c41d7ca7ea8c9d8f831de4d0495b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pavan\Desktop\MobileFinal\ITrade\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\pavan\Desktop\MobileFinal\ITrade\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.0_7b0db320d447a8564da66d9c0bd6b310da6a1de8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pavan\Desktop\MobileFinal\ITrade\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\pavan\Desktop\MobileFinal\ITrade\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.0_95e045513da4702a69fd8e82cc8aaa11a3f16e1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pavan\Desktop\MobileFinal\ITrade\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\pavan\Desktop\MobileFinal\ITrade\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.0_838947071ba2b7c087949977acc065a765bc7a72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pavan\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="C:\Users\pavan\Desktop\MobileFinal\ITrade\app\build\intermediates\pre-dexed\debug\httpclient-4.3.6_8109b30af0337b3842673ff7b67f92f2ccbdd528.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pavan\Desktop\MobileFinal\ITrade\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\pavan\Desktop\MobileFinal\ITrade\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.0_5fafbc8cf2bf35a268fc862e4f47b36e5912da83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pavan\Desktop\MobileFinal\ITrade\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\pavan\Desktop\MobileFinal\ITrade\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.0_46ac59110df8fdbc8d131dd9a14cc750fd1652ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pavan\Desktop\MobileFinal\ITrade\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\pavan\Desktop\MobileFinal\ITrade\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.0_bb70ee71c0b999239cb8f30bd3f2e862ae4d3447.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pavan\Desktop\MobileFinal\ITrade\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\pavan\Desktop\MobileFinal\ITrade\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.0_3cc8346540b8187631fbc7f21c8a3ad5d86f2fc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pavan\Desktop\MobileFinal\ITrade\app\build\intermediates\exploded-aar\com.android.support\design\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="C:\Users\pavan\Desktop\MobileFinal\ITrade\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.0_6f9a1efc694205a2a680f1cd182463780ffca6ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pavan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Users\pavan\Desktop\MobileFinal\ITrade\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_443e061bc1a3e4568346665b5102914cd548d298.jar" />
+    </item>
+
+</items>

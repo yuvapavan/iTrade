@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="165dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Title"
+        android:id="@+id/stockNewsCellTitle"
+        android:textSize="16dp"
+        android:textColor="#000"
+        android:textStyle="bold"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginRight="16dp"
+        android:lines="2"
+        android:layout_marginBottom="5dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Content"
+        android:id="@+id/stockNewsCellContent"
+        android:layout_alignLeft="@+id/stockNewsCellTitle"
+        android:layout_alignStart="@+id/stockNewsCellTitle"
+        android:layout_below="@+id/stockNewsCellTitle"
+        android:lines="3"
+        android:layout_alignRight="@+id/stockNewsCellTitle"
+        android:layout_alignEnd="@+id/stockNewsCellTitle"
+        android:textColor="#000"
+        android:layout_marginBottom="5dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Publisher"
+        android:id="@+id/stockNewsCellPublisher"
+        android:layout_below="@+id/stockNewsCellContent"
+        android:layout_alignLeft="@+id/stockNewsCellContent"
+        android:layout_alignStart="@+id/stockNewsCellContent"
+        android:layout_alignRight="@+id/stockNewsCellContent"
+        android:layout_alignEnd="@+id/stockNewsCellContent"
+        android:textSize="12dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Date"
+        android:id="@+id/stockNewsCellDate"
+        android:layout_below="@+id/stockNewsCellPublisher"
+        android:layout_alignLeft="@+id/stockNewsCellPublisher"
+        android:layout_alignStart="@+id/stockNewsCellPublisher"
+        android:layout_alignRight="@+id/stockNewsCellPublisher"
+        android:layout_alignEnd="@+id/stockNewsCellPublisher"
+        android:textSize="12dp" />
+
+</RelativeLayout>

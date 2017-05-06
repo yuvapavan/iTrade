@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ITrade</string>
+
+    <string name="url_get_auto_complete_stock_list">http://homework-8-1267.appspot.com/getInfoMobile.php?input=</string>
+    <string name="url_get_stock_detail">http://homework-8-1267.appspot.com/getInfoMobile.php?getstock=</string>
+    <string name="url_get_stock_detail_chart_prefix">http://chart.finance.yahoo.com/t?s=</string>
+    <string name="url_get_stock_detail_chart_suffix">&amp;lang=en-US&amp;region=US&amp;width=450&amp;height=300</string>
+    <string name="url_get_stock_historical_chart">http://homework-8-1267.appspot.com/historical-chart.html?symbol=</string>
+    <string name="url_get_stock_news">http://homework-8-1267.appspot.com/getInfoMobile.php?getnews=</string>
+
+    <string name="title_activity_stock_content">Stock Detail</string>
+    <string name="action_add_to_favorites">Favorite</string>
+
+    <string name="symbol_key">symbol</string>
+    <string name="default_shared_preferences_key">default</string>
+    <string name="favorites_key">favorites</string>
+
+</resources>
